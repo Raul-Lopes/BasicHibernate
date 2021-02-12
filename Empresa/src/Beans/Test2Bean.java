@@ -1,7 +1,7 @@
 package Beans;
 // Generated 25-Apr-2018 21:57:22 by Hibernate Tools 4.3.1
 
-public class Funcionario implements java.io.Serializable {
+public class Test2Bean implements java.io.Serializable {
 
     private Integer id;
     private Departamento departamento;

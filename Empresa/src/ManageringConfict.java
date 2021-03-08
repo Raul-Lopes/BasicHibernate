@@ -1,5 +1,4 @@
 Simulating code conflict when I pull the code to my local
- 
 1
 2
 3
@@ -9,4 +8,4 @@ Simulating code conflict when I pull the code to my local
 6
 7
 8
-9 
+ 

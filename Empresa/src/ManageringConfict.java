@@ -6,6 +6,6 @@ Simulating code conflict when I pull the code to my local
 5
 5
 6
-7
-8
+7 - y
+8 - w
  
